@@ -188,14 +188,12 @@ copy this text and paste it on the terminal: git clone https://github.com/mughes
 
 ### Step-8
 Run this Command: 
-workflow "Copy to Clipboard" {
-  on = "push"
-  resolves = "pip install -r requirements.txt"
-}
-
-action "Copy to Clipboard" {
-  uses = "actions/checkout@v2"
-}
+```bash
+cd SRM-SDG-Hackathon-2023
+```
+```bash
+pip install -r requirements.txt
+```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/00b51132-d8cd-44f1-84a2-218729dabc9a)
 
 
