@@ -1,4 +1,4 @@
-# One-API Heart Rate Prediction Using LSTM Model in One API Platform
+# Heart Rate Prediction Using LSTM Model in One-API Platform
 
 The oneAPI-samples repository contains samples for the [Intel® oneAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html).
 
