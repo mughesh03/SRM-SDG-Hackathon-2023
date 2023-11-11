@@ -172,6 +172,9 @@ go to Training
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/ec0c9273-9c96-4ded-a381-1c61d8b5e41c)
 
 ### Step-5
+Click Machine Learning Using One-Api
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/16da2adc-cce6-40b2-9712-7d6ba03a7d76)
+
 Click Launch Button
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a8411e91-81ee-42d9-8592-0a78256efe4a)
 
