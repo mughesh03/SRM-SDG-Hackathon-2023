@@ -1,4 +1,4 @@
-# oneAPI Samples
+# oneAPI Heart Rate Prediction Using LSTM Model in One API Platform
 
 The oneAPI-samples repository contains samples for the [Intel® oneAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html).
 
@@ -147,16 +147,31 @@ Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz
 
 ## Licenses
 
-Code samples are licensed under the MIT license. See [License.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
+Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
 
-Third-party program licenses can be found here: [third-party-programs.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
+Third-party program licenses can be found here: [third-party-programs. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
 
 ## Notices and Disclaimers
 
 © Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
-### Intel ONEAPI Signin 
-## Step-1
+## Intel ONEAPI Sign in 
+### Step-1
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/b1774c4f-a23b-48fc-8992-071c3a611fff)
-## Step-2
+### Step-2
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5e8c4b08-c0c7-4499-b55a-a309cb8920ff)
-## Step-3
+### Step-3
+Choose Standard Plan
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/2bab0969-176f-43f5-ac64-455d7ceeea13)
+### Step-4
+go to Training 
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/82e84224-de8b-47d6-ad18-d01f8eb9cff0)
+### Step-5
+Click Launch Button
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/3df2f470-16bf-47c6-9a4c-0199f52f272a)
+### Step-6
+Open Terminal 
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/1d385aea-d338-48ff-b2dc-ff268d76e0ee)
+### Step-7
+copy this text and paste it on terminal: git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/18d787ce-a4a6-48a1-a36b-e1cdb5a3b172)
+
