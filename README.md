@@ -156,21 +156,29 @@ Third-party program licenses can be found here: [third-party-programs. txt](http
 © Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
 ## Intel ONEAPI Sign in 
 ### Step-1
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/b1774c4f-a23b-48fc-8992-071c3a611fff)
+click Create a Account
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/fbc31fa6-39d9-404f-8c2a-14d2151b9045)
+
 ### Step-2
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5e8c4b08-c0c7-4499-b55a-a309cb8920ff)
+Fill those Details
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/aa675440-9127-44c7-bb96-e34172966810)
+
 ### Step-3
 Choose Standard Plan
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/2bab0969-176f-43f5-ac64-455d7ceeea13)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/990c5608-c08d-4877-bb5d-4a5e513f3961)
+
 ### Step-4
 go to Training 
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/82e84224-de8b-47d6-ad18-d01f8eb9cff0)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/ec0c9273-9c96-4ded-a381-1c61d8b5e41c)
+
 ### Step-5
 Click Launch Button
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/3df2f470-16bf-47c6-9a4c-0199f52f272a)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a8411e91-81ee-42d9-8592-0a78256efe4a)
+
 ### Step-6
 Open Terminal 
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/1d385aea-d338-48ff-b2dc-ff268d76e0ee)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a978d45b-78d8-441b-9035-cc883127faac)
+
 ### Step-7
 copy this text and paste it on terminal: git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/18d787ce-a4a6-48a1-a36b-e1cdb5a3b172)
