@@ -193,7 +193,7 @@ git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
 ```bash
 cd SRM-SDG-Hackathon-2023
 ```
-The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed
+The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed
 using:
 ```bash
 pip install -r requirements.txt
