@@ -145,15 +145,6 @@ Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz
 - Windows support for the FPGA code samples is limited to the **FPGA emulator** and **optimization reports**. Only Linux supports **FPGA hardware** compilation. See any FPGA code sample README.md for more details.
 - If you encounter `Error MSB6003 The specified task executable ... could not be run...` when building a sample program, it might be due to the length of the directory path. Move the `build` directory to a location with a shorter path. Build the sample in the new location.
 
-## Licenses
-
-Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
-
-Third-party program licenses can be found here: [third-party-programs. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
-
-## Notices and Disclaimers
-
-© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
 ## Intel ONEAPI Sign in 
 ### Step-1
 click Create a Account
@@ -200,6 +191,14 @@ pip install -r requirements.txt
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/00b51132-d8cd-44f1-84a2-218729dabc9a)
 
+## Licenses
 
+Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
+
+Third-party program licenses can be found here: [third-party-programs. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
+
+## Notices and Disclaimers
+
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
 
 
