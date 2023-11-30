@@ -198,6 +198,18 @@ Open Shell
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/28b299bd-33cd-4f7c-bfd4-c471bd1781c9)
 
+### Scikit-learn Intelex
+```bash
+%pip install scikit-learn-intelex
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/2d66a362-121d-4814-a78c-811285cf881a)
+
+### Scikit-learn
+```bash
+%pip install scikit-learn
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/7602e015-9728-496b-b601-02ccbdebfe0a)
+
 ## Licenses
 
 Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
