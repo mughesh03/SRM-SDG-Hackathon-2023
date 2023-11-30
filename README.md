@@ -173,24 +173,7 @@ Click Launch Button
 Open Shell
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/8a25c53f-039f-4839-80a6-d531dc830e28)
 
-### Step-7
-Run this command on the Shell:
-```bash
-git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
-```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/65c0d20c-6269-4efe-82ee-cac58938f38a)
-
-### Step-8
-```bash
-cd SRM-SDG-Hackathon-2023
-```
-The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed
-using:
-```bash
-pip install -r requirements.txt
-```
-
-## Library Install in one-API Shell
+## Installing Required Library in one-API 
 ### pandas
 ```bash
 pip install pandas
