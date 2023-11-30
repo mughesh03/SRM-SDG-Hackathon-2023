@@ -193,6 +193,13 @@ pip install -r requirements.txt
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5898d356-cbcf-44fc-95f9-24e194c19f72)
 
+## Library Install in one-API Shell
+### pandas
+```bash
+pip install -r requirements.txt
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/60306927-ab62-4a5b-8d66-2fccf0909433)
+
 ## Licenses
 
 Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
