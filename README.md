@@ -210,6 +210,18 @@ Open Shell
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/7602e015-9728-496b-b601-02ccbdebfe0a)
 
+## MAE & MSE Value without one-API
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/337e564f-5a84-44f3-876c-bd8c0b037ae6)
+## MAE & MSE Value with one-API
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/2ac142c0-7cec-4eef-be74-7b94dbd79aab)
+## Performance Graph
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/c0b0a01a-9730-4cab-9cff-12ad9d8d5c93)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/afd0b61a-ffee-4ea5-a835-b332d7052386)
+## Result
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a30d165c-a087-4f83-be5d-d2e1eb3b2739)
+## Benchmark:
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5e81275c-3211-47f6-911d-5f6499351641)
+
 ## Licenses
 
 Code samples are licensed under the MIT license. See [License. txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
