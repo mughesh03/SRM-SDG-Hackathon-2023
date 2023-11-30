@@ -174,22 +174,24 @@ Open Terminal
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a978d45b-78d8-441b-9035-cc883127faac)
 
 ### Step-7
-copy this text and paste it on the terminal:
+Run this command on terminal:
 ```bash
 git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
 ```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/18d787ce-a4a6-48a1-a36b-e1cdb5a3b172)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/65c0d20c-6269-4efe-82ee-cac58938f38a)
 
 ### Step-8
 ```bash
 cd SRM-SDG-Hackathon-2023
 ```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/82a2b9b1-9a2f-4d44-8cbf-ee4ee4d4d535)
+
 The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed
 using:
 ```bash
 pip install -r requirements.txt
 ```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/00b51132-d8cd-44f1-84a2-218729dabc9a)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5898d356-cbcf-44fc-95f9-24e194c19f72)
 
 ## Licenses
 
