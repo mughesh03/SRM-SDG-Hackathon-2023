@@ -3,3 +3,5 @@ scikit-learn-intelex==2021.4
 numpy>=1.19.0
 scipy>=1.6.0
 matplotlib>=3.3.0
+tensorflow>=2.0.0
+
