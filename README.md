@@ -170,11 +170,11 @@ Click Launch Button
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a8411e91-81ee-42d9-8592-0a78256efe4a)
 
 ### Step-6
-Open Terminal 
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/a978d45b-78d8-441b-9035-cc883127faac)
+Open Shell
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/8a25c53f-039f-4839-80a6-d531dc830e28)
 
 ### Step-7
-Run this command on terminal:
+Run this command on the Shell:
 ```bash
 git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
 ```
@@ -184,21 +184,25 @@ git clone https://github.com/mughesh03/SRM-SDG-Hackathon-2023.git
 ```bash
 cd SRM-SDG-Hackathon-2023
 ```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/82a2b9b1-9a2f-4d44-8cbf-ee4ee4d4d535)
-
 The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed
 using:
 ```bash
 pip install -r requirements.txt
 ```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/5898d356-cbcf-44fc-95f9-24e194c19f72)
 
 ## Library Install in one-API Shell
 ### pandas
 ```bash
-pip install -r requirements.txt
+pip install pandas
 ```
-![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/60306927-ab62-4a5b-8d66-2fccf0909433)
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/c88492f7-b187-422e-bfaa-8ac82f71d33e)
+
+### Matplotlib
+```bash
+pip install matplotlib
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/62331d2e-faa9-42b3-ac27-12a73c35f99b)
+
 
 ## Licenses
 
