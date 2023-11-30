@@ -174,18 +174,29 @@ Open Shell
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/8a25c53f-039f-4839-80a6-d531dc830e28)
 
 ## Installing Required Library in one-API 
-### pandas
+### Pandas
 ```bash
-pip install pandas
+%pip install pandas
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/c88492f7-b187-422e-bfaa-8ac82f71d33e)
 
 ### Matplotlib
 ```bash
-pip install matplotlib
+%pip install matplotlib
 ```
 ![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/62331d2e-faa9-42b3-ac27-12a73c35f99b)
 
+### Tensorflow
+```bash
+%pip install tensorflow
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/b962f02e-9ded-4a1a-9dcf-bf2be1c277bc)
+
+### Numpy
+```bash
+%pip install numpy
+```
+![image](https://github.com/mughesh03/SRM-SDG-Hackathon-2023/assets/121656366/28b299bd-33cd-4f7c-bfd4-c471bd1781c9)
 
 ## Licenses
 
