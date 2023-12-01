@@ -1,5 +1,5 @@
-# SRM SDG Hackathon 2023
-# Team name Edge Developer’s 
+# Edge Developer’s
+# SRM SDG Hackathon 2023 
 # Heart Rate Prediction Using LSTM Model in One-API Platform
 
 The oneAPI-samples repository contains samples for the [Intel® oneAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html).
